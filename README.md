@@ -7,5 +7,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Daifuku (China) Manufacturing Co., Ltd.
 - 🌱 I’m currently learning AI/Japanese.
-- 💞 JuanJuan Zhou
 
