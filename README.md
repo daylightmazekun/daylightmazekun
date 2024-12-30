@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**daylightmazekun/daylightmazekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 # 欢迎来到我的 GitHub 主页！👋
 
 ## 关于我
